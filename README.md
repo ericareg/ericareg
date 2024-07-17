@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ericareg
-- 👀 I’m interested in front -end
+- 👀 I’m interested in front - end
 - 🌱 I’m currently learning about html, css and javascript
 - 💞️ I’m looking to collaborate on TWIST project's
 - 📫 How to reach me @ericaregnier@tecgraf.puc-rio.br
-- 😄 Pronouns: she anda her
+- 😄 Pronouns: she and her
   
 
 <!---
