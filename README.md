@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ericareg
-- 👀 I’m interested in front - end
-- 🌱 I’m currently learning about html, css and javascript
-- 💞️ I’m looking to collaborate on TWIST project's
-- 📫 How to reach me @ericaregnier@tecgraf.puc-rio.br
-- 😄 Pronouns: she and her
+- 🌺 Olá, sou @ericareg
+- 💕 Sou interessada em front - end, cachorros, bichinhos e jogos
+- 🌸 estou aprendendo sobre html, css and javascript
+- 🐚 gosto de ouvir música, praia, comida, ver séries e filmes
+- 🦋 @ericaregnier@tecgraf.puc-rio.br
+- 🦔 Pronomes: she and her
+- 🦕 faço graduação em ciência da computação na puc-rio
+- 🐸 adoro conversar e fofocar
   
 
 <!---
