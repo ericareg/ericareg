@@ -1,6 +1,5 @@
 - 🌺 Olá, sou @ericareg
 - 💕 Sou interessada em front - end, cachorros, bichinhos e jogos
-- 🌸 estou aprendendo sobre html, css and javascript
 - 🐚 gosto de ouvir música, praia, comida, ver séries e filmes
 - 🦋 @ericaregnier@tecgraf.puc-rio.br
 - 🦔 Pronomes: she and her
