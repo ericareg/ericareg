@@ -1,0 +1,74 @@
+/* Reseta margens e fontes */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+body {
+    background: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilização do contêiner */
+.container {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    background: #dfc0c0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Imagem de perfil */
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Nome e descrição */
+.name {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+/* Botão */
+.btn {
+    padding: 10px 20px;
+    background: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.btn:hover {
+    background: #e7e7e7;
+}
+
+/* Extra Info */
+.extra-info {
+    margin-top: 20px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #34495e;
+}
+
+.hidden {
+    display: none;
+}
