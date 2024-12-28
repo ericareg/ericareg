@@ -5,7 +5,7 @@
 - 🦔 Pronomes: she and her
 - 🦕 faço graduação em ciência da computação na puc-rio
 - 🐸 adoro conversar e fofocar
--  Meu portifólio com as visualizações de alguns projetos: https://www.canva.com/design/DAFx55o304Q/fVuyIJhE0ockrma9dciUzw/edit?utm_content=DAFx55o304Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+-  Meu portifólio com as visualizações de alguns projetos: https://ericareg.github.io/portifolio/
   
 
 
